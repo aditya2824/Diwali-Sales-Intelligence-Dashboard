@@ -1,6 +1,4 @@
-# Diwali-Sales-Intelligence-Dashboard
-# 🪔 Diwali Sales Intelligence Dashboard – Streamlit BI Project
-
+🪔 Diwali Sales Intelligence Dashboard – Streamlit BI Project
 ## 📊 Overview
 
 This project presents a **fully interactive Business Intelligence dashboard** that explores and visualizes key sales trends during the Indian festival of **Diwali**, using real-world retail transaction data.  
